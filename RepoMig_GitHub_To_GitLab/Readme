@@ -1,0 +1,14 @@
+# Migrating a GitHub Repository into GitLab
+
+## Steps
+    - 1. Create GitLab Account/ SignIn to the account if already available
+    - 2. Create a new Blank Project
+    - 3. Create a new folder in local and clone the github repository you want to migrate.
+        - Command : git clone --mirror <github_repo_url>
+    - 4. Move to the directory  
+    - 5. Check for secrets if available using gitLeaks
+        - Command : gitleaks detect --source=. --report-path=gitleaks-report.json 
+    - 6. If no leaks, then set the remote url of gitlab,
+        - command : git remote add gitlab <gitlab_repo_url>
+    - 7. Push to that repository
+        - command : git push --mirror gitlab
