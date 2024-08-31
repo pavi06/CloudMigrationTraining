@@ -1,0 +1,22 @@
+# Simple Monolith Application
+
+## Frontend  
+    - HTML, CSS, JS
+    - Simple Web Application, that displays the course details (course and duration) 
+
+## Backend  
+    - node js, express
+    - Simple app which fetches the data from db
+
+## Database 
+    - ms sql server database
+    - stores the course details (courseid, course , duration)
+
+## Required npm packages
+    - express
+    - nodemon
+    - msnodesqlv8
+    - dotenv
+
+## To execute the Appliccation  
+    - **command** : npm start

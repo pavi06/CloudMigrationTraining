@@ -1,0 +1,34 @@
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    env_file:
+      - variables.env      
+    depends_on:
+      - sqlserver
+
+  sqlserver:
+    build:
+      context: ./database
+      dockerfile: Dockerfile
+    env_file:
+      - variables.env      
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql_data:/var/opt/mssql
+
+volumes:
+  sql_data:
