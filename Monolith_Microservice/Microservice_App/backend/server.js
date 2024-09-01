@@ -1,58 +1,35 @@
-const express = require('express');
-const sql = require('mssql/msnodesqlv8');
-const path = require('path');
+const express = require("express");
+const mysql = require("mysql2");
+const cors = require("cors");
+const path = require("path");
+
+require("dotenv").config();
 
 const app = express();
+app.use(cors());
 const port = 3000;
 
-// Set up middleware to serve static files
-app.use(express.static(path.join(__dirname, 'public')));
-
-// SQL Server configuration
 const config = {
-    driver:'msnodesqlv8',
-    user: process.env.DB_USER,
-    password: process.env.DB_PASSWORD,
-    server: process.env.DB_SERVER ,
-    database: process.env.DB_NAME ,
-    options: {
-        encrypt:false,
-        trustedConnection: false
-    }
+  user: process.env.DB_USER,
+  password: process.env.DB_PASSWORD,
+  host: process.env.DB_HOST,
+  database: process.env.DB_NAME,
+  port: process.env.DB_PORT
 };
 
-// Create a pool connection
-let poolPromise;
-
-const initializeDbConnection = async () => {
-    try {
-        poolPromise = sql.connect(config);
-        console.log('Connected to SQL Server');
-    } catch (err) {
-        console.error('SQL Server connection error: ', err);
-        process.exit(1);
-    }
-};
-
-initializeDbConnection();
-
-app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname,'public', 'index.html'));
+app.get("/courses", async (req, res) => {
+  console.log("------------------------")
+  try {
+    const pool = mysql.createPool(config).promise();
+    const [rows] = await pool.query("SELECT * FROM CourseDetails");
+    console.log(rows)
+    res.json(rows);
+  } catch (err) {
+    console.log(err)
+    res.status(500).send("Internal server error");
+  }
 });
 
-// Route to fetch course details
-app.get('/courses', async (req, res) => {
-    try {
-        const pool = await poolPromise;
-        const result = await pool.request().query('SELECT * FROM CourseDetails');
-        res.json(result.recordset);
-    } catch (err) {
-        console.error('Error fetching courses: ', err);
-        res.sendStatus(500);
-    }
-});
-
-// Start the server
 app.listen(port, () => {
-    console.log(`Server running at http://localhost:${port}`);
+  console.log(`Server running at http://localhost:${port}`);
 });

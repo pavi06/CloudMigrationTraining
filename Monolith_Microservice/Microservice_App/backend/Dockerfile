@@ -1,26 +1,15 @@
-# Use the official Node.js image with the specific version
-FROM node:20.14.0
+# Use the official Node.js image
+FROM node:alpine
 
-# Set the working directory inside the container
-WORKDIR /usr/src/app
+WORKDIR /app
 
-# Copy the rest of your application code
-COPY ./package.json ./
+COPY package.json ./
 
-# Install dependencies
 RUN npm install
-
-# Install nodemon globally
-RUN npm install -g nodemon
-
-# Install sql server for node
-RUN npm i msnodesqlv8
 
 COPY . .
 
-# Expose port 3000
-EXPOSE 3000
+EXPOSE 3001
 
-# Command to run the application using nodemon
-CMD ["nodemon", "/backend/server.js"]
+CMD ["node", "server.js"]
 
