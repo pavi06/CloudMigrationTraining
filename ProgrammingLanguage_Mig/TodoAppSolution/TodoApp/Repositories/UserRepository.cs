@@ -8,7 +8,7 @@ namespace TodoApp.Repositories
 {
     public class UserRepository : IRepository<string, User>
     {
-        private TodoContext _context;
+        protected readonly TodoContext _context;
 
         public UserRepository(TodoContext context)
         {

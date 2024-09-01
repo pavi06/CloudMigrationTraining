@@ -8,7 +8,7 @@ namespace TodoApp.Repositories
 {
     public class TodoRepository : IRepository<long, Todo>
     {
-        private TodoContext _context;
+        protected readonly TodoContext _context;
 
         public TodoRepository(TodoContext context)
         {
@@ -50,12 +50,14 @@ namespace TodoApp.Repositories
 
         public async Task<Todo> Update(Todo item)
         {
-            var todo = await Get(item.Id);
-            if (todo != null)
+            var res = await Get(item.Id);
+            if ( res != null)
             {
-                _context.Update(item);
+                _context.Entry<Todo>(res).State = EntityState.Detached;
+                _context.Attach(item);
+                _context.Entry<Todo>(item).State = EntityState.Modified;
                 await _context.SaveChangesAsync();
-                return todo;
+                return item;
             }
             throw new ObjectNotAvailableException("Todo Item not available!");
         }

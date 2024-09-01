@@ -3,52 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\contexts\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\contexts\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\models\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\models\\dtos\\updatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\dtos\\updatetododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\contexts\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\contexts\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\models\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\models\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|solutionrelative:todoapp\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{62B62AAA-C703-4952-87C6-74365B19858F}|TodoApp\\TodoApp.csproj|c:\\users\\vc\\desktop\\cloudmigrationtask\\programminglanguage_mig\\todoappsolution\\todoapp\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,54 +74,17 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "TodoApp\\Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Services\\UserService.cs",
-              "RelativeToolTip": "TodoApp\\Services\\UserService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T20:36:58.075Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "TodoApp\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Controllers\\UserController.cs",
-              "RelativeToolTip": "TodoApp\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T13:45:42.818Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Program.cs",
-              "RelativeDocumentMoniker": "TodoApp\\Program.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Program.cs",
-              "RelativeToolTip": "TodoApp\\Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAkwCwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T20:03:25.537Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "TodoController.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Controllers\\TodoController.cs",
               "RelativeDocumentMoniker": "TodoApp\\Controllers\\TodoController.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Controllers\\TodoController.cs",
               "RelativeToolTip": "TodoApp\\Controllers\\TodoController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwGMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-31T13:26:10.496Z",
               "EditorCaption": ""
@@ -125,55 +92,133 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Models\\User.cs",
-              "RelativeDocumentMoniker": "TodoApp\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Models\\User.cs",
-              "RelativeToolTip": "TodoApp\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T19:59:20.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Todo.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Models\\Todo.cs",
               "RelativeDocumentMoniker": "TodoApp\\Models\\Todo.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Models\\Todo.cs",
               "RelativeToolTip": "TodoApp\\Models\\Todo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAaAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-31T19:59:21.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Services\\TodoService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Services\\TodoService.cs",
+              "RelativeToolTip": "TodoApp\\Services\\TodoService.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAADwv1MAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:02:01.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Repositories\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Repositories\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Repositories\\TodoRepository.cs",
+              "RelativeToolTip": "TodoApp\\Repositories\\TodoRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwD4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:06:55.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Models\\User.cs",
+              "RelativeToolTip": "TodoApp\\Models\\User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T19:59:20.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UpdateTodoDTO.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Models\\DTOs\\UpdateTodoDTO.cs",
               "RelativeDocumentMoniker": "TodoApp\\Models\\DTOs\\UpdateTodoDTO.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Models\\DTOs\\UpdateTodoDTO.cs",
               "RelativeToolTip": "TodoApp\\Models\\DTOs\\UpdateTodoDTO.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowBsAAAAaAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T20:18:20.416Z"
+              "WhenOpened": "2024-08-31T20:18:20.416Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TodoContext.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Contexts\\TodoContext.cs",
               "RelativeDocumentMoniker": "TodoApp\\Contexts\\TodoContext.cs",
               "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Contexts\\TodoContext.cs",
               "RelativeToolTip": "TodoApp\\Contexts\\TodoContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAxAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBQAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-01T02:58:37.957Z"
+              "WhenOpened": "2024-09-01T02:58:37.957Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Program.cs",
+              "RelativeToolTip": "TodoApp\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:03:25.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Services\\UserService.cs",
+              "RelativeToolTip": "TodoApp\\Services\\UserService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T20:36:58.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "TodoApp\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:38:22.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TodoApp\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T13:45:42.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "TodoDTO.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Models\\DTOs\\TodoDTO.cs",
               "RelativeDocumentMoniker": "TodoApp\\Models\\DTOs\\TodoDTO.cs",
@@ -185,31 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TodoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Repositories\\TodoRepository.cs",
-              "RelativeDocumentMoniker": "TodoApp\\Repositories\\TodoRepository.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Repositories\\TodoRepository.cs",
-              "RelativeToolTip": "TodoApp\\Repositories\\TodoRepository.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAA+wDUAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T20:06:55.615Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TodoService.cs",
-              "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Services\\TodoService.cs",
-              "RelativeDocumentMoniker": "TodoApp\\Services\\TodoService.cs",
-              "ToolTip": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Services\\TodoService.cs",
-              "RelativeToolTip": "TodoApp\\Services\\TodoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-31T20:02:01.631Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "TodoApp\\Interfaces\\IUserService.cs",
@@ -221,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TodoReturnDTO.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Models\\DTOs\\TodoReturnDTO.cs",
               "RelativeDocumentMoniker": "TodoApp\\Models\\DTOs\\TodoReturnDTO.cs",
@@ -233,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ITodoService.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Interfaces\\ITodoService.cs",
               "RelativeDocumentMoniker": "TodoApp\\Interfaces\\ITodoService.cs",
@@ -245,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "20240831200303_init.cs",
               "DocumentMoniker": "C:\\Users\\VC\\Desktop\\CloudMigrationTask\\ProgrammingLanguage_Mig\\TodoAppSolution\\TodoApp\\Migrations\\20240831200303_init.cs",
               "RelativeDocumentMoniker": "TodoApp\\Migrations\\20240831200303_init.cs",

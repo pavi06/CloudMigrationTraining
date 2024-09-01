@@ -78,10 +78,6 @@ namespace TodoApp.Controllers
         {
             try
             {
-                if (todoItem == null)
-                {
-                    throw new Exception("Todo Item is null");
-                } 
                 var res = await _todoService.UpdateTodoItem(todoItem);
                 if (res)
                 {
@@ -101,14 +97,14 @@ namespace TodoApp.Controllers
         #endregion
 
         #region GetTodoList
-        [HttpGet("List")]
+        [HttpPost("List")]
         [ProducesResponseType(typeof(List<Todo>), StatusCodes.Status200OK)]
         [ProducesResponseType(typeof(ErrorModel), StatusCodes.Status404NotFound)]
-        public async Task<ActionResult<List<Todo>>> ListItems()
+        public async Task<ActionResult<List<Todo>>> ListItems([FromBody] string userName)
         {
             try
             {
-                var res = _todoService.GetAllTodos().Result.Where(t=>t.UserName == _userService.LoggedInUserName).ToList();
+                var res = _todoService.GetAllTodos().Result.Where(t=>t.UserName == userName).ToList();
                 if (res.Count>0)
                 {
                     return Ok(res);

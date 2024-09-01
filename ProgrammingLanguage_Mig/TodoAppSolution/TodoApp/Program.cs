@@ -38,13 +38,13 @@ namespace TodoApp
             #endregion
 
             #region Repositories
-            builder.Services.AddSingleton<IRepository<string, User>, UserRepository>();
-            builder.Services.AddSingleton<IRepository<long, Todo>, TodoRepository>();
+            builder.Services.AddScoped<IRepository<string, User>, UserRepository>();
+            builder.Services.AddScoped<IRepository<long, Todo>, TodoRepository>();
             #endregion
 
             #region Services
-            builder.Services.AddSingleton<IUserService, UserService>();
-            builder.Services.AddSingleton<ITodoService, TodoService>();
+            builder.Services.AddScoped<IUserService, UserService>();
+            builder.Services.AddScoped<ITodoService, TodoService>();
             #endregion
 
             builder.Services.AddControllers().AddJsonOptions(options =>
